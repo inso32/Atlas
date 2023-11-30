@@ -16,7 +16,11 @@ body {
   	padding: 8px 8px;
 	border-color: #16181C;
 	margin:20px;
-.contacts .form {
-	flex-direction:
-	column ;
+	
+.form {
+	max-width:800;
+	padding: 10px 10px 10px;
+	background-color: #F8F8F8;
+	justify-content:
+	center;
 }
