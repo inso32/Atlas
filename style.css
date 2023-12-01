@@ -5,8 +5,8 @@
 }
 
 @font-face {
-	font-family: Lilita;
-	src: url('./LilitaOne-Regular.ttf');
+	font-family: Stem;
+	src: url('./Stem-Regular.ttf');
 }
 /*
 body {
@@ -22,7 +22,7 @@ body {
 }
 
 h1 {
-	font-family: Lilita;
+	font-family: Stem;
 }
 
 .maindiv {
