@@ -1,10 +1,12 @@
 .solobutton {
-    background-color: #eee;
+    background-color: #fff;
     border: 0.5px solid #EDEDED;
+	border-color: #16181C;
   	border-radius: 8px;
   	padding: 8px 8px;
   	font-family: Manrope;
-  	font-size: 14px;
+  	font-size: 16px;
+	color: #DBA901;
 }
 .solobutton-edit {
 	font-family: Manrope;
@@ -19,7 +21,7 @@
 	font-family: Manrope;
 	cursor: pointer;
     color: #fff;
-	background-color: #0000ff;
+	background-color: #DBA901;
   	border-radius: 8px;
   	padding: 8px 8px;
 	border-color: #16181C;
