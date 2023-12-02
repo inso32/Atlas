@@ -17,7 +17,7 @@ function writeHeader(baseurl){
  * Write the footer
  */
 function writeFooter(){
-	document.write("<center><h2>Got a feedback ?</h2><br>We are all ears<br>atlas.node.space@gmail.com"
+	document.write("<center><h2>Got a feedback ?</h2><br>We are all ears.<br>atlas.node.space@gmail.com"
 	);
 } 
 
