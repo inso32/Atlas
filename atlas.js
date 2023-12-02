@@ -5,7 +5,7 @@ function writeHeader(baseurl){
 	
 	var gap = "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;";
 	
-	document.write("<center><br><h1>AURO.node</h1>"
+	document.write("<center><br><h1>Auromine</h1>"
 		+"<button class='solobutton' onclick='location.href=\""+baseurl+"index.html\";'>Home</button>"+gap
 		+"<button class='solobutton' onclick='location.href=\""+baseurl+"stake.html\";'>Stake CCD</button>"+gap
 		+"<button class='solobutton' onclick='location.href=\""+baseurl+"questions.html\";'>Questions</button>"+gap
