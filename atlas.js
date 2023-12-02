@@ -1,6 +1,4 @@
-/**
- * Write the header
- */
+/* Header */
 function writeHeader(baseurl){
 	
 	var gap = "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;";
@@ -13,11 +11,8 @@ function writeHeader(baseurl){
 		+"");
 } 
 
-/**
- * Write the footer
- */
+/* Footer */
 function writeFooter(){
-	document.write("<center><h2>Got a feedback ?</h2><br>We are all ears.<br>atlas.node.space@gmail.com"
+	document.write("<center><h2>Got a feedback ?</h2>atlas.node.space@gmail.com<br>We are all ears.<br>"
 	);
 } 
-
