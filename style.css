@@ -1,4 +1,3 @@
-
 @font-face {
 	font-family: Manrope;
 	src: url('./Manrope-Regular.ttf');
@@ -24,7 +23,15 @@ body {
 h1 {
 	font-family: Stem;
 	color: #DBA901;
+	letter-spacing: 3px;
 }
+
+h4 {
+	font-family: Stem;
+	color: #DBA901;
+	letter-spacing: 3px;
+}
+
 
 .maindiv {
 	max-width:800;
@@ -35,4 +42,3 @@ h1 {
 	border-color: #16181C;
 	margin:20px;
 }
-
