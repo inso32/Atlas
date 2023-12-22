@@ -8,4 +8,4 @@ service nginx start
 sleep 5
 rm /var/www/html/index.nginx-debian.html
 cd /var/www/html/
-git clone https://github.com/inso32/Auromine .
+git clone https://github.com/inso32/Auromine
